@@ -86,8 +86,8 @@ public class MainApp {
 			// -> iteration Start/End value to run multiple iterations at a time
 			//    in this case start shall be less than or equal to end value
 			int iteration = 1;
-			iterationStart = iteration;
-			iterationEnd = iteration;
+			iterationStart = 1;
+			iterationEnd = 5;
 		}
 
 		// Load simulation settings (returns false if any config inconsistency occurs)
