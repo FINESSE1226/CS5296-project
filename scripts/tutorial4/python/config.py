@@ -5,7 +5,7 @@ def get_configuration():
     """
     config = {
         'folder_path': '../../../sim_results/tutorial4',
-        'num_iterations': 10,
+        'num_iterations': 1,
         'x_tick_interval': 1,
         'scenario_types': ['RANDOM_CAPACITY', 'EQUAL_CAPACITY', 'TRAFFIC_HEURISTIC'],
         'legends': ['rand', 'equal', 'traffic'],

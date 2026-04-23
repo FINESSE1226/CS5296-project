@@ -1,6 +1,0 @@
-tutorial,figure_or_table_id,metric_name,scenario_notes,value,unit,source_notes
-1,replace_me,avg_service_time,example BEST_FIT vs WORST_FIT at N devices,,seconds,after_run_fill_from_log_or_figure
-2,replace_me,task_completion_rate,example granularity policy A vs B,,ratio_0_to_1,after_run_fill_from_log_or_figure
-3,replace_me,avg_network_delay,example orchestrator policy comparison,,seconds,after_run_fill_from_log_or_figure
-4,replace_me,failed_task_ratio,example capacity setting X vs Y,,ratio_0_to_1,after_run_fill_from_log_or_figure
-5,replace_me,end_to_end_latency,example WAN setting plus server scale,,seconds,after_run_fill_from_log_or_figure
