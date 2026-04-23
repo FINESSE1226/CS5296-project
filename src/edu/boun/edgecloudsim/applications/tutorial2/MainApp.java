@@ -24,8 +24,7 @@ import edu.boun.edgecloudsim.core.SimSettings;
 import edu.boun.edgecloudsim.utils.SimLogger;
 import edu.boun.edgecloudsim.utils.SimUtils;
 
-public class
-MainApp {
+public class MainApp {
 	
 	public static final int EXPECTED_NUM_OF_ARGS = 5;
 	public static final String APPLICATION_FOLDER = "tutorial2";

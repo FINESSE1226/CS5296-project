@@ -54,7 +54,7 @@ done
 for (( i=0; i<$num_of_processes; i++ ))
 do
 	chmod +x ${simulation_out_folder}/tmp_runner${i}.sh
-	setsid ${simulation_out_folder}/tmp_runner${i}.sh &
+${simulation_out_folder}/tmp_runner${i}.sh &
 	pid=$!
 	echo $pid >> "${simulation_out_folder}/simulation_pids.txt"
 done

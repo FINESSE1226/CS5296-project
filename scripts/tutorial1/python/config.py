@@ -5,7 +5,7 @@ def get_configuration():
     """
     config = {
         'folder_path': '../../../sim_results/tutorial1',
-        'num_iterations': 10,
+        'num_iterations': 1,
         'x_tick_interval': 1,
         'scenario_types': ['RANDOM_FIT', 'WORST_FIT', 'BEST_FIT', 'FIRST_FIT', 'NEXT_FIT'],
         'legends': ['RND', 'WF', 'BF', 'FF', 'NF'],
